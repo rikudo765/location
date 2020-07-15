@@ -1,0 +1,8 @@
+pytz==2019.3
+Flask==1.1.1
+flask_script
+protobuf==3.11.2
+Werkzeug==0.16.0
+google-cloud-firestore==1.6.2
+google-cloud-logging==1.14.0
+Jinja2==2.11.1
